@@ -1,0 +1,1 @@
+rsync --delete -alrv $HOME/public_html/memo/ $HOME/github/github.io-StatPNU/memo/
