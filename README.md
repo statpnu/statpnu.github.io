@@ -1,5 +1,4 @@
-# statpnu.github.io
+# memo 
 
-Hi Everyone!
+This is only for personal private memo.
 
-Currently, we are testing this web. 
