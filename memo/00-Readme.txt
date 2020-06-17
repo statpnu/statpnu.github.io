@@ -4,6 +4,8 @@ cd ~/github/github.io-statpnu/memo
 ##cp -pf ~/public_html/memo/gitmemo/*.*  ~/github/github.io-statpnu/memo
  rsync --delete -alrv ~/public_html/memo/gitmemo/*.*  ~/github/github.io-statpnu/memo
 
+ rsync --delete -alrv ~/public_html/memo/gitmemo/  ~/github/github.io-statpnu/memo/
+
 
 
 Y라는 학부생.... 
