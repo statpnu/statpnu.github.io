@@ -1,17 +1,14 @@
 ﻿
-cd ~/github/github.io-statpnu/memo
 
-##cp -pf ~/public_html/memo/gitmemo/*.*  ~/github/github.io-statpnu/memo
- rsync --delete -alrv ~/public_html/memo/gitmemo/*.*  ~/github/github.io-statpnu/memo
+--------------------------------------------
+깨끗히 물러난 가수.... 20년전 폭력에도.....
+https://www.chosun.com/national/2021/01/31/KT5WXBAHYVFBPFJBFCH3GXZPOM/
 
- rsync --delete -alrv ~/public_html/memo/gitmemo/  ~/github/github.io-statpnu/memo/
+그리고 사과
+https://www.chosun.com/national/2021/02/01/WBQPO2OCFVB7TNZRBQL6TOTD7Q/
+--------------------------------------------
 
 
-
-Y라는 학부생.... 
-
-F라는 대학원생..... 채명신.... 
-내 비록 적장은 싫지만, 그 자식에게 만큼은 ...
 
 
 
@@ -27,13 +24,11 @@ Me-too 운동이 활발..... 여성에 성추행..... 교육계의 Me-too는 언
 이용. 
 
 # 
-
  정유라 적색수배.... 이종원 범죄가 더 심각... 당연 적색수배 대상 (한국 검찰기준).
 
 
 #-----------------------------------------
 
-chapter-01 : under writing as of 2011
 
 고한중 
 #############
@@ -58,11 +53,6 @@ Write a letter to:
 
 같은 피부에 같은 언어를 쓰는 같은 민족에게서 받는 인간차별을 난 너무나도 뼈져리게 겪었다. 
 차라리 피부색이라도 달랐으면, 인종이라도 달랐으면, 국적이라도 달랐으면 하면서 난 회한의 시절을 보낸적이 있다. 
-
-
-
-
-
 
 
 
