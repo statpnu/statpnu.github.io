@@ -17,24 +17,39 @@ p       {line-height:150%; text-indent:25px;}
 <meta http-equiv="Refresh" content="50; url=https://ko.wikipedia.org/wiki/이병호_(핵공학자)">
 -->
 <meta content="950; url=https://sites.google.com/view/punchbowl-korea" http-equiv="Refresh"/>
-
 <style>
+  /* Light mode (default) */
   body {
-    background-color: #0b0f12;
-    color: #e6eef3;
+    background-color: #ffffff;
+    color: #000000;
     line-height: 1.7;
     font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
   }
-  p, li, div, span { color: #e6eef3; }
-  h1,h2,h3,h4,h2 a { color: #ffffff; }
-  a { color: #61dafb; }
-  a:hover { color: #8de0ff; }
-  hr { border: 0; border-top: 1px solid rgba(255,255,255,0.2); }
+  p, li, div, span { color: #000000; }
+  h1,h2,h3,h4,h2 a { color: #000000; }
+  a { color: #0066cc; }
+  a:hover { color: #004080; }
+  hr { border: 0; border-top: 1px solid rgba(0,0,0,0.2); }
   code, pre {
-    background: rgba(255,255,255,0.1);
-    color: #e6eef3;
+    background: rgba(0,0,0,0.05);
+    color: #000000;
     padding: 2px 5px;
     border-radius: 4px;
+  }
+
+  /* Dark mode */
+  html.dark body {
+    background-color: #0b0f12;
+    color: #e6eef3;
+  }
+  html.dark p, html.dark li, html.dark div, html.dark span { color: #e6eef3; }
+  html.dark h1, html.dark h2, html.dark h3, html.dark h4, html.dark h2 a { color: #ffffff; }
+  html.dark a { color: #61dafb; }
+  html.dark a:hover { color: #8de0ff; }
+  html.dark hr { border: 0; border-top: 1px solid rgba(255,255,255,0.2); }
+  html.dark code, html.dark pre {
+    background: rgba(255,255,255,0.1);
+    color: #e6eef3;
   }
 </style>
 </head>
@@ -46,7 +61,6 @@ p       {line-height:150%; text-indent:25px;}
   border-radius: 8px; padding: 0.5rem 0.8rem;
   cursor: pointer; z-index: 1000;
 ">Light Mode</button>
-
 <center>
 <h2>최고의 정신 치료는 ‘복수’다” — 하버드청담심리센터 (최명기)</h2>
 </center>
@@ -170,7 +184,7 @@ p       {line-height:150%; text-indent:25px;}
 <br/><hr/>
 </font>
 
-진암 (眞巖/참바우/亞ㅅ士) 박찬석 (朴燦奭) 書. <br>
+진암 (眞巖/참바우/亞ㅅ士) 박찬석 (朴燦奭) 書. <br/>
 <font size="-3" style="line-height:150%">    
 나는 절대 자살하지 않는다. 절대 자살 당하지 않을 것이다.
 </font>
@@ -181,14 +195,17 @@ p       {line-height:150%; text-indent:25px;}
 <!------------------------------------------------------------->
 <!-- COUNTER -->
 <!------------------------------------------------------------->
-</br>
+
+
 <script>
   (function(){
     const html = document.documentElement;
     const btn = document.getElementById('darkToggle');
     const key = 'dark-mode-enabled';
 
-    let isDark = localStorage.getItem(key) === 'true';
+    // Default is dark if nothing stored
+    let stored = localStorage.getItem(key);
+    let isDark = stored ? (stored === 'true') : true;
     apply();
 
     btn.addEventListener('click', () => {
