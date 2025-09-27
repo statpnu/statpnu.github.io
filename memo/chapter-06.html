@@ -15,18 +15,58 @@ li      {line-height:150%; margin-left:0;  margin-bottom:10px;}
 ul      {margin-left:0.5em; padding-left:1em;  margin-top:5px;}
 p       {line-height:150%; text-indent:25px;}
 </style>
-<!--
-<meta http-equiv="Refresh" content="150; url=https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%B3%91%ED%98%B8_(%EA%B3%B5%ED%95%99%EC%9E%90)">
--->
-<!-- <meta http-equiv="Refresh" content="15; url=https://sites.google.com/view/punchbowl-korea"> -->
-<meta http-equiv="Refresh" content="5; url=https://statpnu.github.io/memo/">
+<meta http-equiv="Refresh" content="500; url=https://statpnu.github.io/memo/">
+
+<style>
+  /* Light mode (default) */
+  body {
+    background-color: #ffffff;
+    color: #000000;
+    line-height: 1.7;
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  }
+  p, li, div, span { color: #000000; }
+  h1,h2,h3,h4,h2 a { color: #000000; }
+  a { color: #0066cc; }
+  a:hover { color: #004080; }
+  hr { border: 0; border-top: 1px solid rgba(0,0,0,0.2); }
+  code, pre {
+    background: rgba(0,0,0,0.05);
+    color: #000000;
+    padding: 2px 5px;
+    border-radius: 4px;
+  }
+
+  /* Dark mode */
+  html.dark body {
+    background-color: #0b0f12;
+    color: #e6eef3;
+  }
+  html.dark p, html.dark li, html.dark div, html.dark span { color: #e6eef3; }
+  html.dark h1, html.dark h2, html.dark h3, html.dark h4, html.dark h2 a { color: #ffffff; }
+  html.dark a { color: #61dafb; }
+  html.dark a:hover { color: #8de0ff; }
+  html.dark hr { border: 0; border-top: 1px solid rgba(255,255,255,0.2); }
+  html.dark code, html.dark pre {
+    background: rgba(255,255,255,0.1);
+    color: #e6eef3;
+  }
+</style>
 
 
 
 </HEAD>
 
 
-<BODY LANG="utf-8" topmargin="50" leftmargin="50" rightmargin="50" bottommargin="50">
+<BODY LANG="utf-8" topmargin="500" leftmargin="50" rightmargin="50" bottommargin="50">
+
+<button id="darkToggle" style="
+  position: fixed; right: 1rem; bottom: 1rem;
+  background: rgba(255,255,255,0.05); color: #e6eef3;
+  border: 1px solid rgba(255,255,255,0.2);
+  border-radius: 8px; padding: 0.5rem 0.8rem;
+  cursor: pointer; z-index: 1000;
+">Light Mode</button>
 
 
 <center>
@@ -159,7 +199,7 @@ KimJDu나 수원으로 옮긴 HwangPS 보다 뭐가 잘나서 정년까지 무�
 그놈의 K고......  <br/> <br/>
 
      서울대 교수, 과학원 부원장,  원자력원구소 부원장 등을 역임한 
-<a href="https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%B3%91%ED%98%B8_(%ED%95%B5%EA%B3%B5%ED%95%99%EC%9E%90)" target="_blank">이병호</a> 
+<a href="https://ko.wikipedia.org/wiki/이병호_(핵공학자)" target="_blank">이병호</a> 
 교수님도 기계과에서는 정년을 마치지 못하고 쫒겨났다. 
 다행히 홍익대로 옮겨서 만년에도 연구를 계속하시기는 했지만, 도대체 기준이 무었인가?
 내가 보기에는 완전 빽이다. 하여간 이 부분도 좀더 자세히 파봐야 한다. 
@@ -211,6 +251,37 @@ KimJDu나 수원으로 옮긴 HwangPS 보다 뭐가 잘나서 정년까지 무�
 <!------------------------------------------------------------->
 <!-- COUNTER -->
 <!------------------------------------------------------------->
+
+<script>
+  (function(){
+    const html = document.documentElement;
+    const btn = document.getElementById('darkToggle');
+    const key = 'dark-mode-enabled';
+
+    // Default is dark if nothing stored
+    let stored = localStorage.getItem(key);
+    let isDark = stored ? (stored === 'true') : true;
+    apply();
+
+    btn.addEventListener('click', () => {
+      isDark = !isDark;
+      localStorage.setItem(key, isDark);
+      apply();
+    });
+
+    function apply() {
+      if(isDark){
+        html.classList.add('dark');
+        btn.textContent = 'Light Mode';
+      } else {
+        html.classList.remove('dark');
+        btn.textContent = 'Dark Mode';
+      }
+    }
+  })();
+</script>
+
+
 </BODY>
 </HTML>
 
