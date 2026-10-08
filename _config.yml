@@ -1,5 +1,5 @@
-title: Midnight theme
-description: Midnight is a theme for GitHub Pages.
-show_downloads: true
+title: Private Memo Files 
+description: This web page is intended solely for private and personal use. The contents herein are confidential and not intended for access or review by others. By proceeding to view or read the following material, you acknowledge and accept full responsibility for doing so.
+show_downloads: false 
 google_analytics:
 theme: jekyll-theme-midnight

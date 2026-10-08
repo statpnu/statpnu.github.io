@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# My Private Memo Files
+## My Private Memo Files
 
 * [Chapter 01](./memo/chapter-01.html): 자서전 초고 시작 (2011-09-01).
 * [Chapter 02](./memo/chapter-02.html): 1988년 카이스트에서 있었던 일.   
@@ -28,7 +28,7 @@ layout: default
 
 *** 
 
-#  추가할 내용 
+##  추가할 내용 
 
 - 황氏가 금xx공대에서  해쳐먹다 걸린....이야기. 이 者도 그 놈 제자.
 - 교통사고로  지금은 고인이되 조심스럽기는 해도 사회 정의상 언젠가는 밝혀야할 교수 채용 부정.... 이 者도 그 놈 제자.
@@ -39,24 +39,23 @@ layout: default
 
 ***
 
-# Long Term Plan </h2></center>
-1. 나의 꿈: 유가와 히데끼
-2. 갑작스런 박사과정 면접 시행.  엄윤용의 용천과 이종원의 계산 등.
-3. 안기부 면접 (xxxx문화사) 
-4. 과기대:  [윤옥영](https://www.hankookilbo.com/News/Read/199003200017218640), [최순달](https://ko.wikipedia.org/wiki/%EC%B5%9C%EC%88%9C%EB%8B%AC) 
-5. 이종원과 다시 만남.
-6. 국제 협력과 일 (임용택)
-7. 김종현과 만남 (생물과 김형만 교수)
-8. UT - Austin (Sendra Park from SNU Medical Hospital) 김종현과 김종인.
-9. 금영학원 정일학원
-10. Letter from Basu
-11. 재도전. Penn State
-12. Clemson Univ.
-13. Clemson Univ 종신 교수
-14. 지더라도 싸우다가 지자.
-15. 1992년 2월29일. 나는 이날을 잊지 못한다. 그 마지막 날까지 나는 책을 완성하고 (강압에 의해서) 사표를 냈다.
-16. 경기高 소위 K高恥들의 형태 (설현욱, 엄윤용, 이종원,   등등....)
-
+## Long Term Plan </h2></center>
+- 나의 꿈: 유가와 히데끼
+- 갑작스런 박사과정 면접 시행.  엄윤용의 용천과 이종원의 계산 등.
+- 안기부 면접 (xxxx문화사) 
+- 과기대:  [윤옥영](https://www.hankookilbo.com/News/Read/199003200017218640), [최순달](https://ko.wikipedia.org/wiki/%EC%B5%9C%EC%88%9C%EB%8B%AC) 
+- 이종원과 다시 만남.
+- 국제 협력과 일 (임용택)
+- 김종현과 만남 (생물과 김형만 교수)
+- UT - Austin (Sendra Park from SNU Medical Hospital) 김종현과 김종인.
+- 금영학원 정일학원
+- Letter from Basu
+- 재도전. Penn State
+- Clemson Univ.
+- Clemson Univ 종신 교수
+- 지더라도 싸우다가 지자.
+- 1992년 2월29일. 나는 이날을 잊지 못한다. 그 마지막 날까지 나는 책을 완성하고 (강압에 의해서) 사표를 냈다.
+- 경기高 소위 K高恥들의 형태 (설현욱, 엄윤용, 이종원,   등등....)
 
 
 <!-- ====================================================== -->
@@ -68,64 +67,3 @@ layout: default
 <!-- ====================================================== -->
 
 
-
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
