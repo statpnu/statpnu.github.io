@@ -14,11 +14,11 @@ layout: default
 * [Chapter 08](./memo/chapter-08.html): 먹물탕 (오타등 수정 필요).
 * [Chapter 09](./memo/chapter-09.html): 학폭 논란 (추후 내용 추가).
 * [Chapter 10](./memo/chapter-10.html): (제목 미정/가칭) 표절이 얼마나 심각한 범죄인지 그 者들은 알까? (추후 내용 추가).
-* [Chapter 10](./memo/chapter-11.html): 한국의 우려스러운 의대 과몰입.
-* [Chapter 10](./memo/chapter-12.html): Yukawa Hideki (湯川秀樹)를 기리며.
-* [Chapter 10](./memo/chapter-13.html): 최고의 정신 치료는 ‘복수’다.
-* [Chapter 10](./memo/chapter-14.html): 학연과 지연.
-* [Chapter 10](./memo/chapter-15.html): 청량리의 추억.
+* [Chapter 11](./memo/chapter-11.html): 한국의 우려스러운 의대 과몰입.
+* [Chapter 12](./memo/chapter-12.html): Yukawa Hideki (湯川秀樹)를 기리며.
+* [Chapter 13](./memo/chapter-13.html): 최고의 정신 치료는 ‘복수’다.
+* [Chapter 14](./memo/chapter-14.html): 학연과 지연.
+* [Chapter 15](./memo/chapter-15.html): 청량리의 추억.
 
 ---
 
