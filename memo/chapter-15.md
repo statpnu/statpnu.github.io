@@ -12,7 +12,8 @@ By proceeding to view or read the following material, you acknowledge and accept
 
 ***
 
-# <center>청량리의 추억</center>
+<!-- # <center>청량리의 추억</center>   -->
+<h1 align="center">청량리의 추억</h1>   <!-- This is better -->
 
 ***
 
