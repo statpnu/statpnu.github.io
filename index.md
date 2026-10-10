@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## My Private Memo Files
+## My Private Memos 
 
 * [Chapter 01](./memo/chapter-01.html): 자서전 초고 시작 (2011-09-01).
 * [Chapter 02](./memo/chapter-02.html): 1988년 카이스트에서 있었던 일.   
