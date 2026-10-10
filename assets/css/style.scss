@@ -4,23 +4,4 @@
 @import "jekyll-theme-midnight";
 
 /* Below is for removing the top empty spaces after removing three buttons */
-section {
-  margin-top: 30px !important;
-}
-
-#header {
-  margin-top: 0px !important;
-  padding-top: 0px; /* Adjust this value if you want a little bit of breathing room at the very top */
-}
-
-#title {
-  margin-top:  0px !important;
-  padding-top: 0px; /* Adjust this value if you want a little bit of breathing room at the very top */
-}
-
-.wrapper {
-  max-width: 1200px;
-  width: 100%;
-  margin: 0 auto;
-  padding: 0 1.5rem; /* Prevents text bleeding on mobile viewports */
-}
+/* See _sass/jekyll-theme-midnight.scss  */
