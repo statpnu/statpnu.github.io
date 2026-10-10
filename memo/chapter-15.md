@@ -12,7 +12,7 @@ By proceeding to view or read the following material, you acknowledge and accept
 
 ***
 
-# 청량리의 추억
+# <center>청량리의 추억</center>
 
 ***
 
