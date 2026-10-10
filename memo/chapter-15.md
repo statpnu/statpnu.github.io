@@ -10,7 +10,10 @@ By proceeding to view or read the following material, you acknowledge and accept
 -->
 [목차](./)
 
-## 청량리의 추억
+# 청량리의 추억
+
+===
+
 <p>
 대학을 졸업한 뒤, 지금은 대전으로 이전했지만, 당시 청량리에 있던 과학기술원 석사과정에 입학하며 2년간 그곳
 에서 생활했다. 
