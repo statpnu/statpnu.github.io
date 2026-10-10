@@ -245,7 +245,7 @@ section {
     h1 {      /* h1 */
       font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
       font-weight: normal;
-      font-size: 25px;       /* font-size: 40px;   */
+      font-size: 30px;       /* font-size: 40px;   */
       text-align: center;
       line-height: 15px;     /* line-height: 36px;   */
     }
@@ -256,6 +256,7 @@ section {
       font-weight: normal;
       font-size: 15px;       /* font-size: 18px;  */
       text-align: center;
+      line-height: 5px;     /* I added this.   */
     }
 
     .credits {
@@ -263,7 +264,7 @@ section {
       font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
       font-weight: normal;
       color: #696969;
-      margin-top: -10px;
+      margin-top: -15px;       /* margin-top: -10px;  */
 
       &.left {
         float: left;
