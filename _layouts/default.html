@@ -36,7 +36,8 @@
       <section>
         <div id="title">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
-          <p>{{ site.tagline | default: site.description | default: site.github.project_tagline }}</p>
+       <!-- <p>{{ site.tagline | default: site.description | default: site.github.project_tagline }}</p>   -->
+           <p style="margin: 0; padding: 0;">{{ site.tagline | default: site.description | default: site.github.project_tagline }}</p>
            <!--   <hr>    -->
           <hr style="margin: 2px 0; border: 0; border-top: 1px solid #ccc;">   
           <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
