@@ -30,33 +30,29 @@ layout: default
 *** 
 
 ###  추가할 내용 
-<small>
-- 황氏가 금xx공대에서  해쳐먹다 걸린....이야기. 이 者도 그 놈 제자.
-- 교통사고로  지금은 고인이되 조심스럽기는 해도 사회 정의상 언젠가는 밝혀야할 교수 채용 부정.... 이 者도 그 놈 제자.
-- 애비 애미 잘 만나서 서울공대 붙으니 쌍으로 신문 등 각종 언론에 기사로 난 이야기. 이 쌍둥이는 누구의 자식?
-</small>
+- <small>황氏가 금xx공대에서  해쳐먹다 걸린....이야기. 이 者도 그 놈 제자.</small>
+- <small>교통사고로  지금은 고인이되 조심스럽기는 해도 사회 정의상 언젠가는 밝혀야할 교수 채용 부정.... 이 者도 그 놈 제자.</small>
+- <small>애비 애미 잘 만나서 서울공대 붙으니 쌍으로 신문 등 각종 언론에 기사로 난 이야기. 이 쌍둥이는 누구의 자식?</small>
 
 ***
 
 ### Long Term Plan 
-<small>
-- 나의 꿈: 유가와 히데끼
-- 갑작스런 박사과정 면접 시행.  엄윤용의 용천과 이종원의 계산 등.
-- 안기부 면접 (xxxx문화사) 
-- 과기대:  [윤옥영](https://www.hankookilbo.com/News/Read/199003200017218640), [최순달](https://ko.wikipedia.org/wiki/%EC%B5%9C%EC%88%9C%EB%8B%AC) 
-- 이종원과 다시 만남.
-- 국제 협력과 일 (임용택)
-- 김종현과 만남 (생물과 김형만 교수)
-- UT - Austin (Sendra Park from SNU Medical Hospital) 김종현과 김종인.
-- 금영학원 정일학원
-- Letter from Basu
-- 재도전. Penn State
-- Clemson Univ.
-- Clemson Univ 종신 교수
-- 지더라도 싸우다가 지자.
-- 1992년 2월29일. 나는 이날을 잊지 못한다. 그 마지막 날까지 나는 책을 완성하고 (강압에 의해서) 사표를 냈다.
-- 경기高 소위 K高恥들의 형태 (설현욱, 엄윤용, 이종원,   등등....)
-</small>
+- <small>나의 꿈: 유가와 히데끼.</small>
+- <small>갑작스런 박사과정 면접 시행.  엄윤용의 용천과 이종원의 계산 등.</small>
+- <small>안기부 면접 (xxxx문화사). </small>
+- <small>과기대</small>: [윤옥영](https://www.hankookilbo.com/News/Read/199003200017218640), [최순달](https://ko.wikipedia.org/wiki/%EC%B5%9C%EC%88%9C%EB%8B%AC)
+- <small>이종원과 다시 만남.</small>
+- <small>국제 협력과 일 (임용택).</small>
+- <small>김종현과 만남 (생물과 김형만 교수).</small>
+- <small>UT - Austin (Sendra Park from SNU Medical Hospital) 김종현과 김종인.</small>
+- <small>금영학원 정일학원.</small>
+- <small>Letter from Basu.</small>
+- <small>재도전. Penn State.</small>
+- <small>Clemson Univ.</small>
+- <small>Clemson Univ 종신 교수.</small>
+- <small>지더라도 싸우다가 지자.</small>
+- <small>1992년 2월29일. 나는 이날을 잊지 못한다. 그 마지막 날까지 나는 책을 완성하고 (강압에 의해서) 사표를 냈다.
+- <small>경기高 소위 K高恥들의 형태 (설현욱, 엄윤용, 이종원,   등등....).</small>
 
 <!-- ====================================================== -->
 <!-- READ RRR    ccc                                        -->
@@ -65,5 +61,4 @@ layout: default
 <!-- ====================================================== -->
 <!-- COUNTER -->
 <!-- ====================================================== -->
-
 
