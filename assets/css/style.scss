@@ -4,12 +4,12 @@
 @import "jekyll-theme-midnight";
 
 /* Below is for removing the top empty spaces after removing three buttons */
-header {
-  margin-top: 0px !important;
+section {
+  margin-top: 25px !important;
 }
 
-section {
-  margin-top: 20px !important;
+#header {
+  margin-top: 0px !important;
 }
 
 #title {
