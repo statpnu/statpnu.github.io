@@ -1,17 +1,16 @@
 title: "Private Memos"
 description: >-
-  <small>
-  This web page is intended solely for private and personal use. 
+  <small>This web page is intended solely for private and personal use. 
   The contents herein are confidential and not intended for access 
   or review by others. By proceeding to view or read the following 
   material, you acknowledge and accept full responsibility for doing so.</small>
-
-# Theme settings
-theme: jekyll-theme-midnight
 
 # Layout configurations
 show_downloads: false
 
 # Analytics (Ensure your layout file supports this variable)
 google_analytics: "G-EHY7XE86ZC"
+
+# Theme settings
+theme: jekyll-theme-midnight
 

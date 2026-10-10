@@ -1,9 +1,4 @@
 ---
 ---
-@import "{{ site.theme }}";
 
-/* Hide the top download buttons area */
-#downloads {
-  display: none;
-}
-
+@import "jekyll-theme-midnight";
