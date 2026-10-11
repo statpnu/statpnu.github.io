@@ -1,13 +1,6 @@
 ---
 layout: default
 ---
-<!--
-<p> 
-This web page is intended solely for private and personal use. 
-The contents herein are confidential and not intended for access or review by others. 
-By proceeding to view or read the following material, you acknowledge and accept full responsibility for doing so.
-</p>
--->
 [<big>목차</big>](./)
 
 ***
@@ -227,6 +220,7 @@ B와 C는 패배를 인정한 뒤 차츰 병세가 호전되어 퇴원했다고 
 그 사실을 말하는 것, 그것이 이 글을 쓰는 이유다.
 </p>
 
+[<big>Prev</big>](./chapter-14.md)  
 
 *** 
 

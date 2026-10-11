@@ -202,8 +202,7 @@ a dream” 연설에서, 사람이 피부색이 아니라 인격에 따라
 피부색이 다르다는 이유로 받는 인종차별보다 내게는
 더 큰 고통이었다.  </p>
 
-[<big>Next</big>](./chapter-15.md)
-
+[<big>Prev</big>](./chapter-13.md)  &emsp;  [<big>Next</big>](./chapter-15.md)
 
 *** 
 

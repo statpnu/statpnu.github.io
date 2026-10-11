@@ -134,7 +134,7 @@ Yukawa를 꿈꾸며 박사과정에 들어갔으나 축출당했고,
 숭고한 업적을 기리며, 고인의 영면과 명복을 빈다.
 </P>
 
-[<big>Next</big>](./chapter-13.md)
+[<big>Prev</big>](./chapter-11.md)  &emsp;  [<big>Next</big>](./chapter-13.md)
 
 *** 
 

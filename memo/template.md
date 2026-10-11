@@ -44,9 +44,7 @@ Chong-Won Lee, 김종현,김종인, 김병로, 이병호, 송지호, 이정주, 
 
 
 
-
-
-[<big>Next</big>](./chapter-XXXXXX.md)
+[<big>Prev</big>](./chapter-11.md)  &emsp;  [<big>Next</big>](./chapter-13.md)
 
 *** 
 
