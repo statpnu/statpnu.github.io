@@ -1,86 +1,27 @@
-<HTML lang="ko">
+---
+layout: default
+title: KAIST에서 있었던 일
+---
+<html>
 <HEAD>
-<title>Private Memos (Chapter 4: 엄윤용, 이종원)</title>
-<meta charset="UTF-8">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>KAIST에서 있었던 일</title>
 <meta name="keywords"
 content="KAIST, KIST, KAIS, 한국과학기술원, 과기원, 과학원, 카이스트, 이종원, 엄윤용,
 Earmme, Youn Young, 범현균, 변준형, 이혁, 강기주, 임종근(생산성), 최승태, 오성근, 황은하, 유중돈, 
-Chong-Won Lee, 
-김종현,김종인, 김병로, 이병호, 송지호, 이정주, 곽윤근, 곽병만, 리쫑원, 
- 진암, 眞巖, 박찬석, 朴燦奭, Chanseok Park">
-
-<style>
-li      {line-height:150%; margin-left:0;  margin-bottom:10px;}
-ul      {margin-left:0.5em; padding-left:1em;  margin-top:5px;}
-p       {line-height:150%; text-indent:25px;}
-</style>
-
-<meta http-equiv="Refresh" content="100; url=https://sites.google.com/view/punchbowl-korea">
-
-<style>
-  /* Light mode (default) */
-  body {
-    background-color: #ffffff;
-    color: #000000;
-    line-height: 1.7;
-    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
-  }
-  p, li, div, span { color: #000000; }
-  h1,h2,h3,h4,h2 a { color: #000000; }
-  a { color: #0066cc; }
-  a:hover { color: #004080; }
-  hr { border: 0; border-top: 1px solid rgba(0,0,0,0.2); }
-  code, pre {
-    background: rgba(0,0,0,0.05);
-    color: #000000;
-    padding: 2px 5px;
-    border-radius: 4px;
-  }
-
-  /* Dark mode */
-  html.dark body {
-    background-color: #0b0f12;
-    color: #e6eef3;
-  }
-  html.dark p, html.dark li, html.dark div, html.dark span { color: #e6eef3; }
-  html.dark h1, html.dark h2, html.dark h3, html.dark h4, html.dark h2 a { color: #ffffff; }
-  html.dark a { color: #61dafb; }
-  html.dark a:hover { color: #8de0ff; }
-  html.dark hr { border: 0; border-top: 1px solid rgba(255,255,255,0.2); }
-  html.dark code, html.dark pre {
-    background: rgba(255,255,255,0.1);
-    color: #e6eef3;
-  }
-</style>
+Chong-Won Lee, 김종현,김종인, 김병로, 이병호, 송지호, 이정주, 곽윤근, 곽병만, 리쫑원, 
+진암, 眞巖, 박찬석, 朴燦奭, Chanseok Park">
 </HEAD>
+</html>
 
-<BODY LANG="utf-8" topmargin="50" leftmargin="50" rightmargin="50" bottommargin="50">
-<button id="darkToggle" style="
-  position: fixed; right: 1rem; bottom: 1rem;
-  background: rgba(255,255,255,0.05); color: #e6eef3;
-  border: 1px solid rgba(255,255,255,0.2);
-  border-radius: 8px; padding: 0.5rem 0.8rem;
-  cursor: pointer; z-index: 1000;
-">Light Mode</button>
+***
 
-<center>
-<H2> KAIST (한국과학기술원/과기원/과학원/카이스트)에서 있었던 일 (리쫑원/어뮤뇽 관련)</H2>
-</center>
+<h1 align="center">전쟁론</h1>   <!-- This is better -->
 
-<!--
-<p> 
-This web page is intended solely for private and personal use. 
-The contents herein are confidential and not intended for access or review by others. 
-By proceeding to view or read the following material, you acknowledge and accept full responsibility for doing so.
-</p>
--->
+***
 
-<HR>
-<h3><a href="https://statpnu.github.io/" target="_self">목차</a></h3>
-<HR>
 
-<p>
+
+<P>
 요즘 난 전쟁론을 틈틈히 공부한다. 이 분야에서는 이춘근 박사의 강의가
 쉽고 재미있다. 내용도 물론 훌륭하고. 사실 내가 이 전쟁론에 관심을 갖게 된 것은
 링컨의 어록 중에 있는  "A friend is one who has the same enemies as you have."
@@ -118,6 +59,8 @@ By proceeding to view or read the following material, you acknowledge and accept
 </p>
 
 
+</P>
+
 
 <p>
 앞서 사자와 비둘기의 예를 봤지만, 칼로 싸우는 무인들의 전쟁이 겉보기에는
@@ -132,6 +75,8 @@ By proceeding to view or read the following material, you acknowledge and accept
 소위 조선의 학자들이 이렇게도 잔인하였다.
 </p>
 
+
+
 <p>
 학자들이 확실이 이런 경향이 있다. 반면 권투 선수들은 피를 흘리며 사각의
 링에서 싸우지만, 경기가 끝나고 두 선수와의 관계는 의외로 좋다.
@@ -143,6 +88,7 @@ By proceeding to view or read the following material, you acknowledge and accept
 굳이 비유를 한다면, 학자들의 논쟁은 비둘기, 피를 흘리는 권투는 맹수에 비유할 수
 있을 것 같다.
 </p>
+
 
 <p>
 앞의 예에서 무력을 쓰지 않는 학자들의 싸움이 오히려 더 잔인한 이유를
@@ -170,25 +116,29 @@ By proceeding to view or read the following material, you acknowledge and accept
 캐나다로 이민을 가서 살아 있다. 아니 두 눈 똑바로 뜨고 살아가고 있다.
 </p>
 
+
 <p>
 지금은 공소 시효도 지났고, 그동안 준비도 철저히 하지 못해서, 그 놈들을 법의 심판대에 올리는 것은
- 
 거의 불가능해 보인다.
 그러나 정의가 있다면, 저런 잔혹한 행위에 대한 <b>하늘의 심판</b>이 있으리라 믿는다.
 내 살아 생전 저들의 심판을 보는 날이 있을 것이가?
 </p>
 
 
-<HR>
-<center>............................................................</center>
-<HR>
 
+
+***
+
+<center>..................<I>중략</I>.....................</center>
+
+***
 
 <p>
 나는 최근에 여러 사정상 급히 귀국을 하게 되었다.  마침 나를 받아 준다는 곳이 있어서
 따뜻한 남쪽 땅에서, 교편을 잡고 분필팔이로 살고 있다.
 근데 텃세가 정말 세다.
-미국 이민을 갔다가 오니, 무슨 검은 머리 외국인이니, 조국을 배신한 놈이니 하면서 별의 별 놀림을 >받고 있다.
+미국 이민을 갔다가 오니, 무슨 검은 머리 외국인이니, 
+조국을 배신한 놈이니 하면서 별의 별 놀림을 받고 있다.
 그것도 면전에서......
 예상은 했지만 막상 당하니 좀  괴롭기는 하다.
 물론 리쫑원/어뮤뇽 같은 것들이 내게 한 것에 비하면 양반이지만....
@@ -202,103 +152,65 @@ By proceeding to view or read the following material, you acknowledge and accept
 두 놈의 입시부정이 없었다면, 이런 소리는 듣지 않고 내 꿈을 이루고 잘 살고 있었을 것이다.
 </p>
 
-
-
-
-
 <p>
 심지어 내가 미국서 테뉴어를 못받아서 왔다는 등 별의 별 악소문을 만드는 놈들도 있다.
 또 어떤 놈은 (사실 그놈은 같은 대학 같은 학과 동기 동창이다), 내가 미국 대학에서 종신교수로 있었
 던 것을 알고는 있는데,
-한다는 말이 (미국서는 테뉴어 받았는지는 몰라도)  한국서는 테뉴어 받지 못할 것이라는 악담을 퍼붓>는 놈도 있다.
+한다는 말이 (미국서는 테뉴어 받았는지는 몰라도) 
+한국서는 테뉴어 받지 못할 것이라는 악담을 퍼붓는 놈도 있다.
 사실 이 놈이 대학은 동기 동창이지만, 카이스트 시험에 한 번 떨어져서 재수를 해서 입학했으니,
 그놈은  카이스트 1년 후배가 된다.
-그리고 나와 카이스트  동기인 구한중이라는 놈이 박사한다고 우겨서 이 사단이 났는데, 구한중과 이 >놈은
-신xxx교수 밑에서 같이 있었으니, 이놈은 나의 카이스트 입학동기 구한중의 실험실 직속 후배가 된다.
+그리고 나와 카이스트  동기인 K환장이라는 놈이 박사한다고 우겨서 이 사단이 났는데,
+K환장과 이놈은 신xxx교수 밑에서 같이 있었으니, 
+이놈은 나의 카이스트 입학동기 K환장의 실험실 직속 후배가 된다. 
 바로 카이스트 후배에게서 이런 모욕적인 언사를 면전에서 듣기도 했다.
 사실 그놈은 그 애비가 서울대에서  학장까지한  끝발 꽤나 좋은 먹물 집안이다.
-이런 먹물 집안들 (나는 이런 것들을 먹물탕이라고 부른다), 소위 먹물탕 출신이 나같이 빽없는 놈이 >한국서 교수되는 꼴을 못본다.
-한국에서는 사농공상이 뼈속에 뿌리 깊게 박혀있어서인지 먹물이 무슨 대단한 감투인냥 생각하고 있는 것 같다.
-이 이야기는 나중에 자세히 하고, 내가 미국서 테뉴어 받은 증거 서류나 여기에 첨부해 놓는다. <br/><br/>
-&nbsp;&nbsp;&nbsp; <b>Link:</b>
-<A href="https://statpnu.github.io/memo/files/Tenure_Color1.jpg", target="_blank">미국 Clemson >대학 종신교수 Letter</A>
+이런 먹물 집안들 (나는 이런 것들을 먹물탕이라고 부른다), 
+소위 먹물탕 출신이 나같이 빽없는 놈이 한국서 교수되는 꼴을 못본다.
+한국에서는 사농공상이 뼈속에 뿌리 깊게 박혀있어서인지 
+먹물이 무슨 대단한 감투인냥 생각하고 있는 것 같다.
+이 이야기는 나중에 자세히 하고, 내가 미국서 테뉴어 받은 증거 서류나 여기에 첨부해 놓는다. 
 </p>
-
-
-<HR>
-
-<h3>&nbsp;&nbsp;&nbsp; <a href="https://statpnu.github.io/memo/chapter-05.html" target="_self">
-... Chapter 5로 ...</a> 
-</h3>
-
-
-<br/> <br/>
-<HR>
-<h2>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://statpnu.github.io/" target="_self"> 목 차 </a></h2>
-<HR>
+-  <b>Link:</b> [미국 Clemson >대학 >종신교수 Letter](https://statpnu.github.io/memo/files/Tenure_Color1.jpg)
 
 
 
-<font size=-1>
-<BR><BR><HR>
-<p><B>형법 제307조 (명예훼손): </B> <BR>
-제1항.  공연히 사실을 적시하여 사람의 명예를 훼손한 자는 2년 이하의 징역이나 
-금고 또는 500만원 이하의 벌금에 처한다. <BR>
-제2항.  공연히 허위의 사실을 적시하여 사람의 명예를 훼손한 자는 5년 이하의 징역, 
-10년 이하의 자격정지 또는 1천만원 이하의 벌금에 처한다.  </p>
 
-<p><B>형법 제310조 (위법성 조각 사유): </B> <BR>
-형법에서는 공연히 즉 불특정 또는 다수인에게 전파가능성이 있게 사실 또는 
-허위의 사실을 적시하여 명예를 훼손한 경우에 처벌을 받는다.  <BR>
+***
+
+| :--- | :---: | ---: |
+|[<big>Prev</big>](./chapter-03.html) | [<big>목차</big>](/) | [<big>Next</big>](./chapter-05.html)|   
+
+***
+
+<small> 
+<B>형법 제307조 (명예훼손): </B> <BR/>
+제1항.  공연히 사실을 적시하여 사람의 명예를 훼손한 자는 2년 이하의 징역이나
+금고 또는 500만원 이하의 벌금에 처한다. <BR/>
+제2항.  공연히 허위의 사실을 적시하여 사람의 명예를 훼손한 자는 5년 이하의 징역,
+10년 이하의 자격정지 또는 1천만원 이하의 벌금에 처한다. 
+</small> 
+
+<small> 
+<B>형법 제310조 (위법성 조각 사유): </B> <BR/>
+형법에서는 공연히 즉 불특정 또는 다수인에게 전파가능성이 있게 사실 또는
+허위의 사실을 적시하여 명예를 훼손한 경우에 처벌을 받는다.  <BR/>
 <b>그러나 공공의 이익에 관한 사항에 관하여 진실한 사실을 적시한 경우에는 
-위법성이 조각되어 무죄가 된다. </B>  </p>
-<BR><HR>
-</font>
+위법성이 조각되어 무죄가 된다. </B>  
+</small> 
 
+---
 
+<small> 
 진암 (眞巖/참바우/亞ㅅ士) 박찬석 (朴燦奭) 書. <BR/>
-<font size=-3 style="line-height:150%">    
 나는 절대 자살하지 않는다. 절대 자살 당하지 않을 것이다.
-</font>
+</small> 
 
-
-<!------------------------------------------------------------->
-<!- READ RRR    ccc                                           ->
-<!------------------------------------------------------------->
+<!-- ====================================================== -->
+<!-- READ RRR    ccc                                        -->
+<!-- ====================================================== -->
 <script src="//t1.extreme-dm.com/f.js" id="eXF-cspark2-2" async defer></script>
-<!------------------------------------------------------------->
+<!-- ====================================================== -->
 <!-- COUNTER -->
-<!------------------------------------------------------------->
-
-<script>
-  (function(){
-    const html = document.documentElement;
-    const btn = document.getElementById('darkToggle');
-    const key = 'dark-mode-enabled';
-
-    // Default is dark if nothing stored
-    let stored = localStorage.getItem(key);
-    let isDark = stored ? (stored === 'true') : true;
-    apply();
-
-    btn.addEventListener('click', () => {
-      isDark = !isDark;
-      localStorage.setItem(key, isDark);
-      apply();
-    });
-
-    function apply() {
-      if(isDark){
-        html.classList.add('dark');
-        btn.textContent = 'Light Mode';
-      } else {
-        html.classList.remove('dark');
-        btn.textContent = 'Dark Mode';
-      }
-    }
-  })();
-</script>
-
-</BODY>
-</HTML>
+<!-- ====================================================== -->
 

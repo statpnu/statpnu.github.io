@@ -41,15 +41,12 @@ Chong-Won Lee, 김종현,김종인, 김병로, 이병호, 송지호, 이정주, 
 
 
 
+***
 
+| :--- | :---: | ---: |
+|[<big>Prev</big>](./chapter-03.html) | [<big>목차</big>](/) | [<big>Next</big>](./chapter-05.html)|     
 
-
-
-*** 
-
-[<big>Prev</big>](./chapter-01.html)  &emsp;&emsp; [<big>목차</big>](/) &emsp;&emsp; [<big>Next</big>](./chapter-02.html)
-
-*** 
+***
 
 <small> 
 <B>형법 제307조 (명예훼손): </B> <BR/>

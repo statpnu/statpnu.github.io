@@ -154,7 +154,8 @@ KimJDu나 수원으로 옮긴 HwangPS 보다 뭐가 잘나서 정년까지 무�
 
 *** 
 
-[<big>Prev</big>](./chapter-05.html)  &emsp;&emsp; [<big>목차</big>](/) &emsp;&emsp; [<big>Next</big>](./chapter-07.html)
+| :--- | :---: | ---: |
+|[<big>Prev</big>](./chapter-05.html) | [<big>목차</big>](/) | [<big>Next</big>](./chapter-07.html)|   
 
 *** 
 

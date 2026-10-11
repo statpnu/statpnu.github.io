@@ -122,7 +122,8 @@ spirit.</B><br/> 내 부러진 다리는 의족으로 고칠 수
 
 *** 
 
-[<big>Prev</big>](./chapter-08.html)  &emsp;&emsp; [<big>목차</big>](/) &emsp;&emsp; [<big>Next</big>](./chapter-10.html)
+| :--- | :---: | ---: |
+|[<big>Prev</big>](./chapter-08.html) | [<big>목차</big>](/) | [<big>Next</big>](./chapter-10.html)|   
 
 *** 
 

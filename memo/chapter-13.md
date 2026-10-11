@@ -137,7 +137,8 @@ title="아들 뺏긴 부모의 복수 #shorts" width="300"></iframe>
 
 *** 
 
-[<big>Prev</big>](./chapter-12.html)  &emsp;&emsp; [<big>목차</big>](/) &emsp;&emsp; [<big>Next</big>](./chapter-14.html) 
+| :--- | :---: | ---: |
+|[<big>Prev</big>](./chapter-12.html) | [<big>목차</big>](/) | [<big>Next</big>](./chapter-14.html)|   
 
 *** 
 

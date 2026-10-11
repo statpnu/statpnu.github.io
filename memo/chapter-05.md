@@ -194,11 +194,12 @@ Novic인가 하는 센터를 만들기는 했지만,
 </p>
 
 
-*** 
+***
 
-[<big>Prev</big>](./chapter-04.html) &emsp;&emsp; [<big>목차</big>](/) &emsp;&emsp; [<big>Next</big>](./chapter-06.html)
+| :--- | :---: | ---: |
+|[<big>Prev</big>](./chapter-04.html) | [<big>목차</big>](/) | [<big>Next</big>](./chapter-06.html)|   
 
-*** 
+***
 
 <small> 
 <B>형법 제307조 (명예훼손): </B> <BR/>

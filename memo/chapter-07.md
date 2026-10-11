@@ -414,7 +414,8 @@ target="_blank">이병호</a>
 
 *** 
 
-[<big>Prev</big>](./chapter-06.html)  &emsp;&emsp; [<big>목차</big>](/) &emsp;&emsp; [<big>Next</big>](./chapter-08.html)
+| :--- | :---: | ---: |
+|[<big>Prev</big>](./chapter-06.html) | [<big>목차</big>](/) | [<big>Next</big>](./chapter-08.html)|   
 
 *** 
 

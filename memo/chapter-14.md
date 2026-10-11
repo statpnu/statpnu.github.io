@@ -205,7 +205,8 @@ a dream” 연설에서, 사람이 피부색이 아니라 인격에 따라
 
 *** 
 
-[<big>Prev</big>](./chapter-13.html)  &emsp;&emsp; [<big>목차</big>](/) &emsp;&emsp; [<big>Next</big>](./chapter-15.html) 
+| :--- | :---: | ---: |
+|[<big>Prev</big>](./chapter-13.html) | [<big>목차</big>](/) | [<big>Next</big>](./chapter-15.html)|   
 
 *** 
 
