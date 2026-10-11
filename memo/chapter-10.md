@@ -50,7 +50,8 @@ Chong-Won Lee, 김종현,김종인, 김병로, 이병호, 송지호, 이정주, 
 </P>
 
 - **Link-1:** [COPE](https://publicationethics.org/)
-- **Link-2:** [What to do if you suspect redundant (duplicate) publication](https://publicationethics.org/files/Full%20set%20of%20English%20flowcharts_9Nov2016.pdf)
+- **Link-2:** [COPE Flowcharts and infographics](https://doi.org/10.24318/cope.2019.2.8)
+- **Link-3:** [Full Flowcharts (PDF)](https://publicationethics.org/media/138/download?attachment)
 
 *** 
 
