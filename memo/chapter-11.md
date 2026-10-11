@@ -1,10 +1,10 @@
 ---
 layout: default
-title: KAIST에서 있었던 일.
+title: KAIST에서 있었던 일
 ---
 <html>
 <HEAD>
-<title>한국의 우려스러운 의대 과몰입</title>
+<title>KAIST에서 있었던 일</title>
 <meta name="keywords"
 content="KAIST, KIST, KAIS, 한국과학기술원, 과기원, 과학원, 카이스트, 이종원, 엄윤용,
 Earmme, Youn Young, 범현균, 변준형, 이혁, 강기주, 임종근(생산성), 최승태, 오성근, 황은하, 유중돈, 
