@@ -172,7 +172,7 @@ K원 기계공학과의 E씨와 L씨는 현재 생존해 있으며,
 
 *** 
 
-[<big>Prev</big>](./chapter-10.md)  &emsp;&emsp; [<big>목차</big>](/) &emsp;&emsp; [<big>Next</big>](./chapter-12.md)
+[<big>Prev</big>](./chapter-10.html)  &emsp;&emsp; [<big>목차</big>](/) &emsp;&emsp; [<big>Next</big>](./chapter-12.html)
 
 *** 
 

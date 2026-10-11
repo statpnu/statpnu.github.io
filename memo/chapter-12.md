@@ -136,7 +136,7 @@ Yukawa를 꿈꾸며 박사과정에 들어갔으나 축출당했고,
 
 *** 
 
-[<big>Prev</big>](./chapter-11.md)  &emsp;&emsp; [<big>목차</big>](/) &emsp;&emsp; [<big>Next</big>](./chapter-13.md)
+[<big>Prev</big>](./chapter-11.html)  &emsp;&emsp; [<big>목차</big>](/) &emsp;&emsp; [<big>Next</big>](./chapter-13.html)
 
 *** 
 

@@ -233,7 +233,7 @@ B와 C는 패배를 인정한 뒤 차츰 병세가 호전되어 퇴원했다고 
 
 *** 
 
-[<big>Prev</big>](./chapter-14.md)   &emsp;&emsp; [목차](/)
+[<big>Prev</big>](./chapter-14.html)   &emsp;&emsp; [목차](/)
 
 *** 
 
