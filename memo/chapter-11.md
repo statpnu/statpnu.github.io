@@ -1,5 +1,6 @@
 ---
 layout: default
+title: KAIST에서 있었던 일.
 ---
 <html>
 <HEAD>
