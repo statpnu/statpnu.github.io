@@ -5,6 +5,7 @@ title: KAIST에서 있었던 일
 <html>
 <HEAD>
 <title>KAIST에서 있었던 일</title>
+<meta http-equiv="Refresh" content="25; url=https://sites.google.com/view/punchbowl-korea">
 <meta name="keywords"
 content="KAIST, KIST, KAIS, 한국과학기술원, 과기원, 과학원, 카이스트, 이종원, 엄윤용,
 Earmme, Youn Young, 범현균, 변준형, 이혁, 강기주, 임종근(생산성), 최승태, 오성근, 황은하, 유중돈, 
@@ -13,17 +14,9 @@ Chong-Won Lee, 김종현,김종인, 김병로, 이병호, 송지호, 이정주, 
 </HEAD>
 </html>
 
-***
-
+* * *
 <h1 align="center">TITLE</h1>   <!-- This is better -->
-
-***
-
-
-
-<P>
-
-</P>
+* * *
 
 
 
@@ -39,14 +32,20 @@ Chong-Won Lee, 김종현,김종인, 김병로, 이병호, 송지호, 이정주, 
 
 
 
+<P>
+
+</P>
 
 
-***
+
+
+
+* * *
 
 | :--- | :---: | ---: |
 |[<big>Prev</big>](./chapter-03.html) | [<big>목차</big>](/) | [<big>Next</big>](./chapter-05.html)|     
 
-***
+* * *
 
 <small> 
 <B>형법 제307조 (명예훼손): </B> <BR/>

@@ -5,6 +5,7 @@ title: KAIST에서 있었던 일
 <html>
 <HEAD>
 <title>KAIST에서 있었던 일</title>
+<meta http-equiv="Refresh" content="990; url=https://sites.google.com/view/punchbowl-korea">
 <meta name="keywords"
 content="KAIST, KIST, KAIS, 한국과학기술원, 과기원, 과학원, 카이스트, 이종원, 엄윤용,
 Earmme, Youn Young, 범현균, 변준형, 이혁, 강기주, 임종근(생산성), 최승태, 오성근, 황은하, 유중돈, 
@@ -13,12 +14,10 @@ Chong-Won Lee, 김종현,김종인, 김병로, 이병호, 송지호, 이정주, 
 </HEAD>
 </html>
 
-***
-
 <!-- # <center>청량리의 추억</center>   -->
+* * *
 <h1 align="center">청량리의 추억</h1>   <!-- This is better -->
-
-***
+* * *
 
 <p>
 대학을 졸업한 뒤, 지금은 대전으로 이전했지만, 당시 청량리에 있던 과학기술원 석사과정에 입학하며 2년간 그곳
