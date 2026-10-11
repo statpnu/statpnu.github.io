@@ -1,10 +1,9 @@
 ---
 layout: default
 ---
-<!DOCTYPE html>
 <html>
 <HEAD>
-<title>최고의 정신 치료는 복수다 — 하버드청담심리센터(최명기)</title>
+<title>최고의 정신치료는 복수(하버드청담심리센터 최명기)</title>
 <meta name="keywords"
 content="KAIST, KIST, KAIS, 한국과학기술원, 과기원, 과학원, 카이스트, 이종원, 엄윤용,
 Earmme, Youn Young, 범현균, 변준형, 이혁, 강기주, 임종근(생산성), 최승태, 오성근, 황은하, 유중돈, 
@@ -16,7 +15,7 @@ Chong-Won Lee, 김종현,김종인, 김병로, 이병호, 송지호, 이정주, 
 
 ***
 
-<h1 align="center">최고의 정신 치료는 복수다 — 하버드청담심리센터(최명기)</h1>   <!-- This is better -->
+<h1 align="center">최고의 정신치료는 복수(하버드청담심리센터 최명기)</h1>   <!-- This is better -->
 
 ***
 
@@ -130,13 +129,11 @@ Chong-Won Lee, 김종현,김종인, 김병로, 이병호, 송지호, 이정주, 
 
 <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="567" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/V_xxgml7j4Y"
 title="최고의 정신 치료는 '복수'하는 거예요. 하버드청담심리센터 최명기 #shorts" width="319"></iframe>
-
-
 &nbsp;&nbsp;&nbsp;
 <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="567" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/MXtT55eLa0o"
 title="아들 뺏긴 부모의 복수 #shorts" width="319"></iframe>
 
-
+</br>
 [<big>Next</big>](./memo/chapter-14.md)
 
 *** 

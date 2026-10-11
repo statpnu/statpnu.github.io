@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-<!DOCTYPE html>
 <html>
 <HEAD>
 <title>TITLE</title>
@@ -22,13 +21,32 @@ Chong-Won Lee, 김종현,김종인, 김병로, 이병호, 송지호, 이정주, 
 
 
 
+<P>
+
+</P>
+
+
+
+<P>
+
+</P>
+
+
+
+<P>
+
+</P>
 
 
 
 
 
 
-[<big>Next</big>](./memo/chapter-XXXXXX.md)
+
+
+
+
+[<big>Next</big>](./chapter-XXXXXX.md)
 
 *** 
 
