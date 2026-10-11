@@ -11,7 +11,7 @@ Chong-Won Lee, 김종현,김종인, 김병로, 이병호, 송지호, 이정주, 
 진암, 眞巖, 박찬석, 朴燦奭, Chanseok Park">
 </HEAD>
 </html>
-[<big>목차</big>](./)
+[<big>목차</big>](/)
 
 ***
 
@@ -99,8 +99,7 @@ K院 출신이라는 배경 때문에 타대학 대학원에서
 순위를 높이기 위해 설문 응답자에게 금품을
 제공했다는 보도였다. 이는 K院뿐 아니라 다른 국내
 대학에도 불이익을 끼칠 수 있는 부끄러운 일이다.
-(참조: <a href="https://www.hankyung.com/article/2025090435261"
-target="_blank">https://www.hankyung.com/article/2025090435261</a>).
+(참조: <a href="https://www.hankyung.com/article/2025090435261" target="_blank">https://www.hankyung.com/article/2025090435261</a>).
 </P>
 
 <P>
@@ -134,11 +133,10 @@ Yukawa를 꿈꾸며 박사과정에 들어갔으나 축출당했고,
 숭고한 업적을 기리며, 고인의 영면과 명복을 빈다.
 </P>
 
-[<big>Prev</big>](./chapter-11.md)  &emsp;  [<big>Next</big>](./chapter-13.md)
 
 *** 
 
-[<big>목차</big>](./)
+[<big>Prev</big>](./chapter-11.md)  &emsp;  [<big>Next</big>](./chapter-13.md) &emsp;&emsp; [<big>목차</big>](/)
 
 *** 
 

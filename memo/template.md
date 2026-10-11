@@ -11,7 +11,7 @@ Chong-Won Lee, 김종현,김종인, 김병로, 이병호, 송지호, 이정주, 
 진암, 眞巖, 박찬석, 朴燦奭, Chanseok Park">
 </HEAD>
 </html>
-[<big>목차</big>](./)
+[<big>목차</big>](/)
 
 ***
 
@@ -44,11 +44,10 @@ Chong-Won Lee, 김종현,김종인, 김병로, 이병호, 송지호, 이정주, 
 
 
 
-[<big>Prev</big>](./chapter-11.md)  &emsp;  [<big>Next</big>](./chapter-13.md)
 
 *** 
 
-[<big>목차</big>](./)
+[<big>Prev</big>](./chapter-11.md)  &emsp;  [<big>Next</big>](./chapter-13.md) &emsp;&emsp; [<big>목차</big>](/)
 
 *** 
 

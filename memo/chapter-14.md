@@ -11,7 +11,7 @@ Chong-Won Lee, 김종현,김종인, 김병로, 이병호, 송지호, 이정주, 
 박찬석, 朴燦奭, Chanseok Park">
 </HEAD>
 </html>
-[<big>목차</big>](./)
+[<big>목차</big>](/)
 
 ***
 
@@ -202,11 +202,10 @@ a dream” 연설에서, 사람이 피부색이 아니라 인격에 따라
 피부색이 다르다는 이유로 받는 인종차별보다 내게는
 더 큰 고통이었다.  </p>
 
-[<big>Prev</big>](./chapter-13.md)  &emsp;  [<big>Next</big>](./chapter-15.md)
 
 *** 
 
-[<big>목차</big>](./)
+[<big>Prev</big>](./chapter-13.md)  &emsp;  [<big>Next</big>](./chapter-15.md) &emsp;&emsp; [<big>목차</big>](/)
 
 *** 
 
