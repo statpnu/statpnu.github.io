@@ -11,7 +11,6 @@ Chong-Won Lee, 김종현,김종인, 김병로, 이병호, 송지호, 이정주, 
 진암, 眞巖, 박찬석, 朴燦奭, Chanseok Park">
 </HEAD>
 </html>
-[<big>목차</big>](/)
 
 ***
 
@@ -128,7 +127,7 @@ Chong-Won Lee, 김종현,김종인, 김병로, 이병호, 송지호, 이정주, 
 </P>
 
 <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="567" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/V_xxgml7j4Y"
-title="최고의 정신 치료는 '복수'하는 거예요. 하버드청담심리센터 최명기 #shorts" width="300"></iframe> &nbsp; 
+title="최고의 정신 치료는 '복수'하는 거예요. 하버드청담심리센터 최명기 #shorts" width="300"></iframe> 
 <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="567" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/MXtT55eLa0o"
 title="아들 뺏긴 부모의 복수 #shorts" width="300"></iframe>
 
@@ -137,7 +136,7 @@ title="아들 뺏긴 부모의 복수 #shorts" width="300"></iframe>
 
 *** 
 
-[<big>Prev</big>](./chapter-12.md)  &emsp;  [<big>Next</big>](./chapter-14.md) &emsp;&emsp; [<big>목차</big>](/)
+[<big>Prev</big>](./chapter-12.md)  &emsp;&emsp; [<big>목차</big>](/) &emsp;&emsp; [<big>Next</big>](./chapter-14.md) 
 
 *** 
 

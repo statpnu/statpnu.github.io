@@ -1,7 +1,16 @@
 ---
 layout: default
 ---
-[<big>목차</big>](/)
+<html>
+<HEAD>
+<title>TITLE</title>
+<meta name="keywords"
+content="KAIST, KIST, KAIS, 한국과학기술원, 과기원, 과학원, 카이스트, 이종원, 엄윤용,
+Earmme, Youn Young, 범현균, 변준형, 이혁, 강기주, 임종근(생산성), 최승태, 오성근, 황은하, 유중돈, 
+Chong-Won Lee, 김종현,김종인, 김병로, 이병호, 송지호, 이정주, 곽윤근, 곽병만, 리쫑원, 
+진암, 眞巖, 박찬석, 朴燦奭, Chanseok Park">
+</HEAD>
+</html>
 
 ***
 

@@ -11,7 +11,6 @@ Chong-Won Lee, 김종현,김종인, 김병로, 이병호, 송지호, 이정주, 
 박찬석, 朴燦奭, Chanseok Park">
 </HEAD>
 </html>
-[<big>목차</big>](/)
 
 ***
 
@@ -205,7 +204,7 @@ a dream” 연설에서, 사람이 피부색이 아니라 인격에 따라
 
 *** 
 
-[<big>Prev</big>](./chapter-13.md)  &emsp;  [<big>Next</big>](./chapter-15.md) &emsp;&emsp; [<big>목차</big>](/)
+[<big>Prev</big>](./chapter-13.md)  &emsp;&emsp; [<big>목차</big>](/) &emsp;&emsp; [<big>Next</big>](./chapter-15.md) 
 
 *** 
 
