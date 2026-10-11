@@ -19,7 +19,7 @@ Chong-Won Lee, 김종현,김종인, 김병로, 이병호, 송지호, 이정주, 
 ***
 
 <P>
-**오늘 9월 8일은 Yukawa Hideki (湯川秀樹) 박사의 기일(忌日)이다.**
+<B>오늘 9월 8일은 Yukawa Hideki (湯川秀樹) 박사의 기일(忌日)이다.</B>
 </P>
 
 <P>
@@ -135,7 +135,7 @@ Yukawa를 꿈꾸며 박사과정에 들어갔으나 축출당했고,
 
 *** 
 
-[<big>Prev</big>](./chapter-11.md)  &emsp;&emsp; [<big>목차</big>](/) &emsp;&emsp; 
+[<big>Prev</big>](./chapter-11.md)  &emsp;&emsp; [<big>목차</big>](/) &emsp;&emsp; [<big>Prev</big>](./chapter-13.md)
 
 *** 
 
