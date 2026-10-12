@@ -18,12 +18,8 @@ Chong-Won Lee, 김종현,김종인, 김병로, 이병호, 송지호, 이정주, 
 <h1 align="center">그들은 왜 그런가? 먹물들이란</h1>   <!-- This is better -->
 * * *
 
-
-
-
-
-<h4>1988년 10월 경 대화 일부 
-(<a href="https://statpnu.github.io/memo/chapter-01.html" target="_self">Chapter 1</a>에서 발췌)</h4>
+<h3>1988년 10월 경 대화 일부 
+(<a href="https://statpnu.github.io/memo/chapter-01.html" target="_self">Chapter 1</a>에서 발췌)</h3>
 * <small><b>리쫑원</b> (KAIST 기계과 교수. 당시 기계과 학과장): 네가 박사 과정 꼭 들어가겠다고 우기는 놈인가?  <br/>
 ................... (중략) ................. </small>
 * <small><b>나</b>: 박사 과정 진학 포기 하겠습니다. </small>
@@ -44,7 +40,7 @@ Chong-Won Lee, 김종현,김종인, 김병로, 이병호, 송지호, 이정주, 
 
 * * *
 
-<h4><a href="https://statpnu.github.io/memo/chapter-02.html" target="_self">Chapter 2</a>에 이어서.....  </h4>
+<h3><a href="https://statpnu.github.io/memo/chapter-02.html" target="_self">Chapter 2</a>에 이어서.....  </h3>
 
 * * *
 
