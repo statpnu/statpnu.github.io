@@ -5,7 +5,7 @@ title: KAIST에서 있었던 일
 <html>
 <HEAD>
 <title>KAIST에서 있었던 일</title>
-<meta http-equiv="Refresh" content="2500; url=https://sites.google.com/view/punchbowl-korea">
+<meta http-equiv="Refresh" content="250; url=https://sites.google.com/view/punchbowl-korea">
 <meta name="keywords"
 content="KAIST, KIST, KAIS, 한국과학기술원, 과기원, 과학원, 카이스트, 이종원, 엄윤용,
 Earmme, Youn Young, 범현균, 변준형, 이혁, 강기주, 임종근(생산성), 최승태, 오성근, 황은하, 유중돈, 
