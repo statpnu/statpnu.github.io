@@ -151,7 +151,10 @@ KimJDu나 수원으로 옮긴 HwangPS 보다 뭐가 잘나서 정년까지 무�
        꽤나 힘 있는 KimJI이라는 오라버니가 밀고 해서 교수가 된 KimJH이란 년.
      ..... 지금은 쓰기 어렵지만 언제가 쓰리라.....</small>
 
+<br/>
+
 * * * 
+
 | :--- | :---: | ---: |
 |[<big>Prev</big>](./chapter-05.html) | [<big>목차</big>](/) | [<big>Next</big>](./chapter-07.html)|   
 
