@@ -18,9 +18,11 @@ Chong-Won Lee, 김종현,김종인, 김병로, 이병호, 송지호, 이정주, 
 <h1 align="center">Yukawa Hideki (湯川秀樹)를 기리며</h1>   <!-- This is better -->
 * * *
 
-<P>
-<B>오늘 9월 8일은 Yukawa Hideki (湯川秀樹) 박사의 기일(忌日)이다.</B>
-</P>
+<br/>
+<blockquote>
+<B>오늘 9월 8일은 Yukawa Hideki (湯川秀樹) 박사의 기일(忌日)이다.</B> 
+</blockquote>
+<br/>
 
 <P>
 한때 그는 나의 우상이었다. 내가 그를 존경하게 된

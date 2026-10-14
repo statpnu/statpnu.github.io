@@ -95,11 +95,15 @@ target="_blank">이병호</a> 교수님도 상당히 힘들어 하셨다.
 한시도 잊은 적이 없다.
 </P>
 
-<P>
+<blockquote>
 <B>There is prosthesis for an amputated body, not for an amputated
-spirit.</B><br/> 내 부러진 다리는 의족으로 고칠 수 
-있지만, 영혼의 상처는 어떻게 치료하나.  그러니
-&Lang;KAIST  어뮤뇽과 리쫑원의 죄를 용서할 순 없다&Rang; 
+spirit.</B><br/> 
+<small>내 부러진 다리는 의족으로 고칠 수 있지만, 영혼의 상처는 어떻게 치료하나. </small>
+</blockquote>
+<br/>
+
+<P>
+그러니 &Lang;KAIST  어뮤뇽과 리쫑원의 죄를 용서할 순 없다&Rang; 
 당시 의족에 의지하면서 치료를 받았는데, 다행히 
 치료가 잘 되었다. 의족의 힘이 컸다.  마음의 상처에도
 이런 의족을 달 수만 있다면 얼마나 좋을까..........

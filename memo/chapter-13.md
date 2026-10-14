@@ -23,11 +23,12 @@ Chong-Won Lee, 김종현,김종인, 김병로, 이병호, 송지호, 이정주, 
 도덕적인 수사보다 훨씬 더 직관적이고 현실적이다.
 </P>
 
-<P>
+<blockquote>
 ‘눈에는 눈, 이에는 이(Eye for an eye, tooth for a tooth)’ —
 이 말은 함무라비 법전(Code of Hammurabi) 제196조와 제200조에 나오는 문장으로, 
 고대 법률의 대표적인 응보 원칙이다.
-</P>
+</blockquote>
+<br/>
 
 <P>
 범죄에 상응하는 벌을 내리는 이러한 응보형 법률(retributive justice)은 오랫동안 비판을 받아왔다.
@@ -73,12 +74,11 @@ Chong-Won Lee, 김종현,김종인, 김병로, 이병호, 송지호, 이정주, 
 물론 논란의 소지가 있는 응보형 법률도 존재한다.
 아래는 건축업자에 대한 처벌을 규정한 법 조항이다.
 함무라비 법전 제229조와 제230조에는 다음과 같은 내용이 있다: <br/>
-**제229조**: 건축업자가 집을 제대로 짓지 않아 무너졌고, 그로 인해 집 주인이 사망했을 경우, 그 건축업자는 >사형에 처한다.
-(If a builder build a house for someone, and does not construct it properly, and the house which he built falls in and kills its owner, then that builder shall be put to death.)
-<br/>
-**제230조**: 만약 무너진 집이 주인의 아들을 죽게 했다면, 건축업자의 아들도 죽여야 한다.
-(If it kills the son of the owner, the son of that builder shall be put to death.)
 </P>
+- **제229조**: 건축업자가 집을 제대로 짓지 않아 무너졌고, 그로 인해 집 주인이 사망했을 경우, 그 건축업자는 >사형에 처한다.
+(If a builder build a house for someone, and does not construct it properly, and the house which he built falls in and kills its owner, then that builder shall be put to death.)
+- **제230조**: 만약 무너진 집이 주인의 아들을 죽게 했다면, 건축업자의 아들도 죽여야 한다.
+(If it kills the son of the owner, the son of that builder shall be put to death.)
 
 <P>
 오늘날의 기준으로 보면, 제230조는 과잉 응보이자 부당한 ‘대리 처벌’로 보일 수 있다.
